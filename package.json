@@ -6,6 +6,7 @@
   "scripts": {
     "buid": "tsc",
     "01": "tsx src/01-process-object",
+    "02": "tsx src/02-crypto-objects",
     "dev": "tsx watch src/index.ts"
   },
   "keywords": [],

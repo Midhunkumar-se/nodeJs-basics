@@ -59,4 +59,4 @@ function runApp(): void {
 runApp();
 
 console.log(process.env.PORT, process.env.DB);
-console.log(process);
+// console.log(process);
